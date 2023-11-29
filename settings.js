@@ -3,32 +3,32 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +15203694731
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347069096801"
+global.ownernomer = "15203694731"
 global.ownername = "🦄 NASS-WORKS"
 global.ytname = "YT: NASSWORKS"
 global.socialm = "Github: NASS-WORKS"
 global.location = "NIGERIA,FCT"
 
-global.ownernumber = '2347069096801'  //creator number
+global.ownernumber = '15203694731'  //creator number
 global.ownername = 'NASS-WORKS' //owner name
 global.botname = 'BOT:ⁿNASS-WORKS' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'NASS-WORKS\n\nContact: +2347069096801'
+global.author = 'NASS-WORKS\n\nContact: +15203694731'
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "NASS-WORKS Bot Inc."
 
 //theme link
-global.link = 'wa.me//2347069096801'
+global.link = 'wa.me//15203694731'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
