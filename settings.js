@@ -16,7 +16,7 @@ global.ytname = "No channel"
 global.socialm = "Github: Debashis121212"
 global.location = "Nalhati, Birbhum, WB, India"
 
-global.ownernumber = '15203694731'  //creator number
+global.ownernumber = '15203694731','15204414618','919339619072' //creator number
 global.ownername = 'Debashis' //owner name
 global.botname = 'DD_BUG-BOT' //name of the bot
 
@@ -47,7 +47,7 @@ global.autoread_status = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
