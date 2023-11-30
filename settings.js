@@ -11,27 +11,27 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "15203694731"
-global.ownername = "🦄 NASS-WORKS"
-global.ytname = "YT: NASSWORKS"
-global.socialm = "Github: NASS-WORKS"
-global.location = "NIGERIA,FCT"
+global.ownername = "Debashis"
+global.ytname = "No channel"
+global.socialm = "Github: Debashis121212"
+global.location = "Nalhati, Birbhum, WB, India"
 
 global.ownernumber = '15203694731'  //creator number
-global.ownername = 'NASS-WORKS' //owner name
-global.botname = 'BOT:ⁿNASS-WORKS' //name of the bot
+global.ownername = 'Debashis' //owner name
+global.botname = 'DD_BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'NASS-WORKS\n\nContact: +15203694731'
+global.author = 'DD\n\nContact: +15203694731'
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "NASS-WORKS Bot Inc."
+global.themeemoji = '📌'
+global.wm = "DD_BUG-BOT"
 
 //theme link
 global.link = 'wa.me//15203694731'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
