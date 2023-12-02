@@ -11,7 +11,7 @@ Debashis's fully modified bugbot with 24/7 uptime script created by Debashis Dey
 <br>
 </p>
 <div>
-<img src="https://i.imgur.com/lURMSFd.jpeg" align="right">
+<img src="" align="right">
 <div>
 </p>
 </p>
