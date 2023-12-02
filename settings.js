@@ -40,14 +40,14 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoread_status = false //auto view status/story
+global.autoread_status = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v3'
+global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
