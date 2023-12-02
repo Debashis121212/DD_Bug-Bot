@@ -5,8 +5,7 @@ Xeon's fully modified bugbot with 24/7 uptime script created by NASS-WORKS
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
 <div align="center">
-<img src="
-">
+<img src="https://i.imgur.com/dvrXkZs.jpeg">
 </div>
 <br>
 </p>
