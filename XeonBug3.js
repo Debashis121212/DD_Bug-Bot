@@ -161,9 +161,9 @@ var xeonlod = [
 "《 █████████▒▒▒》80%",
 "《 ██████████▒▒》90%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 ☠️"
 ]
-let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
+let { key } = await XeonBotInc.sendMessage(from, {text: 'LOADING...'})
 
 for (let i = 0; i < xeonlod.length; i++) {
 await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
@@ -191,7 +191,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
 
         
         //bot number online status, available=online, unavailable=offline
-        XeonBotInc.sendPresenceUpdate('unavailable', from)
+        XeonBotInc.sendPresenceUpdate('available', from)
         
         if (global.autorecordtype) {
         let xeonrecordin = ['recording','composing']
