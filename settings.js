@@ -31,7 +31,7 @@ global.wm = "DD_BUG-BOT"
 global.link = 'wa.me//15203694731'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['/']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
